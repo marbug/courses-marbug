@@ -1,22 +1,22 @@
 ## 2016-12-04 23:28
 
-+ + добавлен файл [TODO.md](TODO.md)
++ добавлен файл [TODO.md](TODO.md)
 
 ## 2016-12-04 22:52
 
-+ + добавлен файл [GLOSSARY.md](GLOSSARY.md)
++ добавлен файл [GLOSSARY.md](GLOSSARY.md)
 
-+ = обновлено содержание файла [README.md](README.md)
++ обновлено содержание файла [README.md](README.md)
 
 ## 2016-12-04 22:15
 
-+ + добавлен файл [DOCS.md](DOCS.md)
++ добавлен файл [DOCS.md](DOCS.md)
 
 ## 2016-12-04 21:47
 
-+ + добавлен файл [TASKS.md](TASKS.md)
++ добавлен файл [TASKS.md](TASKS.md)
 
 ## 2016-12-04
 
-+ + добавлен файл [README.md](README.md)
-+ + добавлен файл CHANGELOG.md (данный файл)
++ добавлен файл [README.md](README.md)
++ добавлен файл CHANGELOG.md (данный файл)
