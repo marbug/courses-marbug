@@ -1,10 +1,10 @@
 ## Содержание
 
 * [Вступление](#Вступление)
-* [CHANGELOG.md](#CHANGELOG.md)
-* [GLOSSARY.md](#GLOSSARY.md)
-* [DOCS.md](#DOCS.md)
-* [TODO.md](#TODO.md)
+* [Изменения (CHANGELOG.md)](#CHANGELOG.md)
+* [Глоссарий (GLOSSARY.md)](#GLOSSARY.md)
+* [Документация (DOCS.md)](#DOCS.md)
+* [ТУДУ (TODO.md)](#TODO.md)
 
 ## Вступление
 
