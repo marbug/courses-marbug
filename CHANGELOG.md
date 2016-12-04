@@ -1,3 +1,8 @@
+# 2016-12-04 22:52
+
++ добавлен файл [GLOSSARY.md](GLOSSARY.md)
+= обновлено содержание файла [README.md](README.md)
+
 # 2016-12-04 22:15
 
 + добавлен файл [DOCS.md](DOCS.md)
@@ -9,4 +14,4 @@
 # 2016-12-04
 
 + добавлен файл [README.md](README.md)
-+ добавлен файл [CHANGELOG.md](CHANGELOG.md)
++ добавлен файл CHANGELOG.md (данный файл)
