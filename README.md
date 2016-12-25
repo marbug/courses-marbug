@@ -4,7 +4,7 @@
 * [Изменения (CHANGELOG.md)](#Изменения-changelogmd)
 * [Глоссарий (GLOSSARY.md)](#Глоссарий-glossarymd)
 * [Документация (DOCS.md)](#Документация-docsmd)
-* [Задания (tasks)](#Задания-tasksmd)
+* [Задания (tasks)](#Задания-tasks)
 * [ТУДУ (TODO.md)](#ТУДУ-todomd)
 
 ## Вступление
