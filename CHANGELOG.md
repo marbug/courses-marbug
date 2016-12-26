@@ -1,3 +1,7 @@
+## 2016-12-26 10:14
+
++ добавлен файл [tasks/git/README.md](tasks/git/README.md)
+
 ## 2016-12-25 11:50
 
 = [TASKS.md](TASKS.md) переименован в [tasks/README.md](tasks/README.md)
