@@ -28,29 +28,29 @@ TODO
 * Создать папку для репозитория
   * Linux:
     ```
-    mkdir -p ~/dev
+      mkdir -p ~/dev
     ```
   * Windows: TODO
 
 * Перейти в папку для репозитория
   * Linux:
     ```
-    cd ~/dev
+      cd ~/dev
     ```
   * Windows: TODO
 
 * Скачать репозиторий
   * Linux:
     ```
-    git clone git@github.com:chooba/learning.git
+      git clone git@github.com:chooba/learning.git
     ```
   * Windows: TODO
 
 * Убедиться, что репозиторий скачан
   * Linux:
-    ```sh
-    ls -l
-    cd learning
-    ls -l
+    ```
+      ls -l
+      cd learning
+      ls -l
     ```
   * Windows: TODO
