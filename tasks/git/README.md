@@ -48,9 +48,9 @@ TODO
 
 * Убедиться, что репозиторий скачан
   * Linux:
-    ```{r, engine='bash'}
-      ls -l
-      cd learning
-      ls -l
-    ```
+      ```
+        ls -l
+        cd learning
+        ls -l
+      ```
   * Windows: TODO
