@@ -48,7 +48,7 @@ TODO
 
 * Убедиться, что репозиторий скачан
   * Linux:
-    ```bash
+    ```sh
     ls -l
     cd learning
     ls -l
