@@ -45,3 +45,12 @@ TODO
     git clone git@github.com:chooba/learning.git
     ```
   * Windows: TODO
+
+* Убедиться, что репозиторий скачан
+  * Linux:
+    ```
+    ls -l
+    cd learning
+    ls -l
+    ```
+  * Windows: TODO
