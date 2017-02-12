@@ -1,3 +1,9 @@
+## 2017-02-12 16:04
+
+* [tasks/README.md](tasks/README.md) переименован в [TASKS.md](TASKS.md)
+* [tasks/git/README.md](tasks/git/README.md) переименован в [tasks/git.md](tasks/git.md)
+* улучшено содержимое [tasks/git.md](tasks/git.md)
+
 ## 2016-12-26 10:14
 
 + добавлен файл [tasks/git/README.md](tasks/git/README.md)
