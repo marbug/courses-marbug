@@ -41,27 +41,11 @@ TODO
     ```
   * Windows: TODO
 
-* Создать папку для своих репозиториев
-  * Linux:
-
-    ```
-    mkdir -p chooba
-    ```
-  * Windows: TODO
-
-* Перейти в папку для своих репозиториев
-  * Linux:
-
-    ```
-    cd chooba
-    ```
-  * Windows: TODO
-
 * Скачать репозиторий
   * Linux:
 
     ```
-    git clone git@github.com:chooba/learning.git
+    git clone git@github.com:marbug/courses-marbug.git
     ```
   * Windows: TODO
 
@@ -72,7 +56,7 @@ TODO
       ls -l
       ```
 
-      должно показать, что есть директория/папка с названием *learning*.
+      должно показать, что есть директория/папка с названием *courses-marbug*.
 
   * Windows: TODO
 
@@ -80,7 +64,7 @@ TODO
   * Linux:
 
     ```
-    cd learning
+    cd courses-marbug
     ```
   * Windows: TODO
 
